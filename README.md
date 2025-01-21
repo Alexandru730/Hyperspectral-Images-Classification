@@ -1,4 +1,4 @@
-# Analiza si Compararea Metoddelor Supervizate de Clasificare pe Imagini Hiperspectrale
+# Analysis and Comparison of Supervised Classification Methods on Hyperspectral Images
 
 ## Overview
 This project analyzes and compares supervised classification methods applied to hyperspectral image datasets. Techniques like Support Vector Machines (SVM), Neural Networks (NN), and Random Forest are implemented and evaluated on a dataset of hyperspectral images. The goal is to assess the performance of these algorithms and provide insights into their advantages and disadvantages.
